@@ -1,12 +1,12 @@
 ### 👋 Olá! Eu sou o **Danilo Miranda**
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento **Full Stack**. Busco constantemente aprimorar minhas habilidades, explorando tecnologias modernas e construindo aplicações eficientes e escaláveis.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento **Full Stack**. Busco constantemente aprimorar minhas habilidades, explorando tecnologias modernas e construindo aplicações eficientes e escaláveis.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor de software na **MATH Group**
+- 💻 Desenvolvedor de software 
 - 📌 Localização: **São Paulo, Brasil** 
 - 🌱 Atualmente aprimorando meus conhecimentos em **React, Angular, Node.js e C#**
 - 📫 Contato: [danilomiranda0505@gmail.com](mailto:danilomiranda0505@gmail.com)
@@ -50,7 +50,7 @@
 
 ## 📈 Experiência Profissional
 
-### **💼 MATH Group** - Estagiário em Desenvolvimento de Software *(Mai/2024 - Atualmente)*
+### **💼 MATH Group** - Desenvolvedor de Software *(Mai/2024 - Jul/2025)*
 - 🔹 Desenvolvimento e suporte na criação de **APIs RESTful**
 - 🔹 Construção de interfaces web com **Angular e React**
 - 🔹 Implementação de **testes unitários** para garantir qualidade do código
