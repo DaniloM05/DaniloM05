@@ -10,7 +10,7 @@
 - 📌 Localização: **São Paulo, Brasil** 
 - 🌱 Atualmente aprimorando meus conhecimentos em **React, Angular, Node.js e C#**
 - 📫 Contato: [danilomiranda0505@gmail.com](mailto:danilomiranda0505@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/danilo-miranda-911486206/](https://www.linkedin.com/in/danilo-miranda-911486206/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/daniloo-miranda/](https://www.linkedin.com/in/daniloo-miranda/)
 
 ---
 
